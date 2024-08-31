@@ -1,0 +1,21 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 HelveticaNeue;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0\c84706;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Why are you interested in taking DATA602?\
+
+\f1\b0 \
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 \strokec2 I'm really looking forward to taking DATA602 because I want to get a good handle on the basics of data science and explore all its corners. I've done quite a few data science projects, but there are still things I haven\'92t tried, like creating an SSH key. Even with the first homework, I've already picked up a lot, which just goes to show how much this course grabs my interest. I\'92m excited to see what else I\'92ll learn!\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+\pard\pardeftab720\qc\partightenfactor0
+
+\f2\fs22 \cf3 \strokec3 \
+}
